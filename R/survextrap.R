@@ -1,7 +1,7 @@
 ## TODO
-## use capital X for covariates not x
-## Document / error that variables should be in data frame not in working env
-## should loghaz be called logscale as it's not the log hazard
+## Add parameter that makes h'= 0, or h'' = 0 at upper boundary
+## perhaps smooth.degree = 0, 1, 2. default = 0.
+##
 
 #' Flexible Bayesian parametric survival models
 #'
