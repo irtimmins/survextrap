@@ -141,4 +141,3 @@ Please give feedback and suggestions if you do.  These can be posted on [github 
 [![R-CMD-check](https://github.com/chjackson/survextrap/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/chjackson/survextrap/actions/workflows/R-CMD-check.yaml)
 [![test-coverage](https://github.com/chjackson/survextrap/actions/workflows/test-coverage.yaml/badge.svg)](https://app.codecov.io/gh/chjackson/survextrap)
 <!-- badges: end -->
-A line I wrote on my local computer  
